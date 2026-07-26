@@ -26,12 +26,7 @@ responsibly:
 ## Scope
 
 This policy applies to actively maintained repositories, applications,
-products, and services operated by DLO Europa SL, including:
-
-- PosCloud
-- Gobook
-- Zaitha
-- TPV365
+products, and services operated by DLO Europa SL.
 
 While conducting security research, do not:
 
